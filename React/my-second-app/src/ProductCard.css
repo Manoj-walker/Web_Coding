@@ -1,0 +1,26 @@
+.main{
+    display: flex;
+    justify-self: center;
+    align-items: center;
+}
+
+.product{
+    width: 300px;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 10px;
+    background-color: bisque;
+    border-radius: 12px;
+    color: blue;
+    font-family: cursive;
+    font-family: 16px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(165, 42, 42, 0.801);
+}
+
+img{
+    width: 300px;
+    border-radius: 12px;
+    object-fit: cover;
+}
+
